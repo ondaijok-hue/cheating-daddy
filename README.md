@@ -43,8 +43,8 @@ A real-time AI assistant that provides contextual help during video calls, inter
 
 - **Window Movement**: `Ctrl/Cmd + Arrow Keys` - Move window
 - **Click-through**: `Ctrl/Cmd + M` - Toggle mouse events
-- **Close/Back**: `Ctrl/Cmd + \` - Close window or go back
-- **Send Message**: `Enter` - Send text to AI
+- **Close/Back**: `v/z + x/b` - Close window or go back
+- **Send Message**: `c/n` - Send text to AI
 
 ## Audio Capture
 
